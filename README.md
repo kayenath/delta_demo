@@ -1,2 +1,2 @@
 # delta_demo
-This is a demo for git n githup class
+This is a demo for git & githup class
